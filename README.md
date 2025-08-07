@@ -49,11 +49,17 @@ poll-vault/
 └── vote-app/        # React frontend
 ```
 
+##ScreenShots 
+
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/f469d0ad-3490-4b2c-9552-76b14a7e481c" />
+<img width="1920" height="1080" alt="Screenshot (275)" src="https://github.com/user-attachments/assets/116e3de9-a763-48c3-a88a-cc14884a49ba" />
+<img width="1920" height="1080" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/ac8f4a1e-0747-48d3-817f-92f29742ed79" />
+<img width="1920" height="1080" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/a30bc105-f3ba-467a-b45b-19d28ee137e6" />
+
+
 ## Demo Video 
 
-```
-[🎥 Watch Project Recording](media/proj-Reco.mkv)
-```
+[![Watch the video](media/video-thumbnail.png)](media/proj-Reco.mkv)
 
 ## 👤 Author
 **Tarak Ram**  
