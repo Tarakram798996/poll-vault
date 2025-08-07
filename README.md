@@ -14,9 +14,9 @@ Poll Vault is a full-stack voting application that enables users to create polls
 
 ### Backend
 - Java + Spring Boot
-- Spring Security (JWT Authentication)
+- Spring Security
 - Spring Data JPA
-- H2 / MySQL (switchable)
+- MySQL
 
 ### Frontend
 - React.js
@@ -45,8 +45,14 @@ npm start
 
 ```
 poll-vault/
-├── backend/         # Spring Boot backend
+├── voting-app/         # Spring Boot backend
 └── vote-app/        # React frontend
+```
+
+## Demo Video 
+
+```
+[🎥 Watch Project Recording](media/proj-Reco.mkv)
 ```
 
 ## 👤 Author
